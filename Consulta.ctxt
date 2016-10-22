@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=email
+comment0.target=Consulta(java.lang.String)
+comment1.params=
+comment1.target=Consulta()
+comment2.params=c
+comment2.target=Consulta(Consulta)
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=
+comment4.target=java.time.LocalDateTime\ getData()
+comment5.params=email
+comment5.target=void\ setEmail(java.lang.String)
+comment6.params=
+comment6.target=Consulta\ clone()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=c
+comment9.target=int\ compareTo(Consulta)
+numComments=10

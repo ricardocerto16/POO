@@ -1,0 +1,1528 @@
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|COMPRADOR|
+Email: comp4@mail
+Nome: comp4
+Password: passcomp4
+Morada: moradacomp4
+Data de Nascimento: 12/4/2332
+
+
+|COMPRADOR|
+Email: comp1@mail
+Nome: comp1
+Password: passcomp1
+Morada: moradacomp1
+Data de Nascimento: 11/22/4454
+
+
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|COMPRADOR|
+Email: comp5@mail
+Nome: comp5
+Password: passcomp5
+Morada: moradacomp5
+Data de Nascimento: 3/6/99
+
+
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|COMPRADOR|
+Email: comp2@mail
+Nome: comp2
+Password: passcomp2
+Morada: moradacomp2
+Data de Nascimento: 22/04/1999
+
+
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|COMPRADOR|
+Email: comp3@mail
+Nome: comp3
+Password: passcomp3
+Morada: moradacomp3
+Data de Nascimento: 11/43/2233
+
+
+Imoobiliaria@1527fbd
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|COMPRADOR|
+Email: comp4@mail
+Nome: comp4
+Password: passcomp4
+Morada: moradacomp4
+Data de Nascimento: 12/4/2332
+
+
+|COMPRADOR|
+Email: comp1@mail
+Nome: comp1
+Password: passcomp1
+Morada: moradacomp1
+Data de Nascimento: 11/22/4454
+
+
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|COMPRADOR|
+Email: comp5@mail
+Nome: comp5
+Password: passcomp5
+Morada: moradacomp5
+Data de Nascimento: 3/6/99
+
+
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|COMPRADOR|
+Email: comp2@mail
+Nome: comp2
+Password: passcomp2
+Morada: moradacomp2
+Data de Nascimento: 22/04/1999
+
+
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|COMPRADOR|
+Email: comp3@mail
+Nome: comp3
+Password: passcomp3
+Morada: moradacomp3
+Data de Nascimento: 11/43/2233
+
+
+|MORADIA|
+Tipo de Moradia: Isolada
+Área de Implantação: 500.0
+Área Total Coberta: 600.0
+Área de Terreno Envolvente: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 6
+ID: 0
+Rua: rua1
+Preço Pedido: 10000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Simples
+Área Total: 400.0
+Número de Quartos e WC's: 3
+Número da Porta: 4
+Número do Andar: 2
+Garagem: Sim
+ID: 1
+Rua: rua2
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|LOJA|
+Tipo de Negócio da Loja: Frutaria
+Área Total: 400.0
+Número da Porta: 3
+WC: Sim
+ID: 2
+Rua: rua3
+Preço Pedido: 4000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|TERRENO|
+Tipo de Construção: Habitacao
+Diâmetro das Canalizações: 7.0
+Área de Construção: 500.0
+kWh máximo suportados pela rede eléctrica: 400.0
+Acesso á rede de esgotos: Não
+ID: 3
+Rua: rua4
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 600.0
+Área Total Coberta: 300.0
+Área de Terreno Envolvente: 900.0
+Número de Quartos e WC's: 6
+Número da Porta: 4
+ID: 4
+Rua: rua5
+Preço Pedido: 20000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|TERRENO|
+Tipo de Construção: Armazem
+Diâmetro das Canalizações: 2.0
+Área de Construção: 3000.0
+kWh máximo suportados pela rede eléctrica: 0.0
+Acesso á rede de esgotos: Sim
+ID: 5
+Rua: rua6
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|LOJA HABITÁVEL|
+Tipo de Negócio da Loja: Doces
+Área Total: 4000.0
+Número da Porta: 7
+WC: Sim
+Apartamento incluido:
+|APARTAMENTO|
+Tipo de Apartamento: Duplex
+Área Total: 400.0
+Número de Quartos e WC's: 5
+Número da Porta: 7
+Número do Andar: 1
+Garagem: Sim
+ID: null
+Rua: rua7
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Triplex
+Área Total: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 9
+Número do Andar: 4
+Garagem: Não
+ID: 7
+Rua: rua8
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|LOJA|
+Tipo de Negócio da Loja: Flores
+Área Total: 343.0
+Número da Porta: 8
+WC: Não
+ID: 8
+Rua: rua9
+Preço Pedido: 8000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 5000.0
+Área Total Coberta: 6000.0
+Área de Terreno Envolvente: 7600.0
+Número de Quartos e WC's: 7
+Número da Porta: 34
+ID: 9
+Rua: rua10
+Preço Pedido: 13000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+Imoobiliaria@a21c35
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|COMPRADOR|
+Email: comp4@mail
+Nome: comp4
+Password: passcomp4
+Morada: moradacomp4
+Data de Nascimento: 12/4/2332
+
+
+|COMPRADOR|
+Email: comp1@mail
+Nome: comp1
+Password: passcomp1
+Morada: moradacomp1
+Data de Nascimento: 11/22/4454
+
+
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|COMPRADOR|
+Email: comp5@mail
+Nome: comp5
+Password: passcomp5
+Morada: moradacomp5
+Data de Nascimento: 3/6/99
+
+
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|COMPRADOR|
+Email: comp2@mail
+Nome: comp2
+Password: passcomp2
+Morada: moradacomp2
+Data de Nascimento: 22/04/1999
+
+
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|COMPRADOR|
+Email: comp3@mail
+Nome: comp3
+Password: passcomp3
+Morada: moradacomp3
+Data de Nascimento: 11/43/2233
+
+
+|MORADIA|
+Tipo de Moradia: Isolada
+Área de Implantação: 500.0
+Área Total Coberta: 600.0
+Área de Terreno Envolvente: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 6
+ID: 0
+Rua: rua1
+Preço Pedido: 10000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Simples
+Área Total: 400.0
+Número de Quartos e WC's: 3
+Número da Porta: 4
+Número do Andar: 2
+Garagem: Sim
+ID: 1
+Rua: rua2
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|LOJA|
+Tipo de Negócio da Loja: Frutaria
+Área Total: 400.0
+Número da Porta: 3
+WC: Sim
+ID: 2
+Rua: rua3
+Preço Pedido: 4000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|TERRENO|
+Tipo de Construção: Habitacao
+Diâmetro das Canalizações: 7.0
+Área de Construção: 500.0
+kWh máximo suportados pela rede eléctrica: 400.0
+Acesso á rede de esgotos: Não
+ID: 3
+Rua: rua4
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 600.0
+Área Total Coberta: 300.0
+Área de Terreno Envolvente: 900.0
+Número de Quartos e WC's: 6
+Número da Porta: 4
+ID: 4
+Rua: rua5
+Preço Pedido: 20000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|TERRENO|
+Tipo de Construção: Armazem
+Diâmetro das Canalizações: 2.0
+Área de Construção: 3000.0
+kWh máximo suportados pela rede eléctrica: 0.0
+Acesso á rede de esgotos: Sim
+ID: 5
+Rua: rua6
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|LOJA HABITÁVEL|
+Tipo de Negócio da Loja: Doces
+Área Total: 4000.0
+Número da Porta: 7
+WC: Sim
+Apartamento incluido:
+|APARTAMENTO|
+Tipo de Apartamento: Duplex
+Área Total: 400.0
+Número de Quartos e WC's: 5
+Número da Porta: 7
+Número do Andar: 1
+Garagem: Sim
+ID: null
+Rua: rua7
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Triplex
+Área Total: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 9
+Número do Andar: 4
+Garagem: Não
+ID: 7
+Rua: rua8
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|LOJA|
+Tipo de Negócio da Loja: Flores
+Área Total: 343.0
+Número da Porta: 8
+WC: Não
+ID: 8
+Rua: rua9
+Preço Pedido: 8000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 5000.0
+Área Total Coberta: 6000.0
+Área de Terreno Envolvente: 7600.0
+Número de Quartos e WC's: 7
+Número da Porta: 34
+ID: 9
+Rua: rua10
+Preço Pedido: 13000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+Imoobiliaria@1b5fe92
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+|COMPRADOR|
+Email: cenas@cenas.pt
+Nome: cenas
+Password: cenas
+Morada: rua das cenas
+Data de Nascimento: 23/07/98
+
+
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|COMPRADOR|
+Email: comp4@mail
+Nome: comp4
+Password: passcomp4
+Morada: moradacomp4
+Data de Nascimento: 12/4/2332
+
+
+|COMPRADOR|
+Email: comp1@mail
+Nome: comp1
+Password: passcomp1
+Morada: moradacomp1
+Data de Nascimento: 11/22/4454
+
+
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|COMPRADOR|
+Email: comp5@mail
+Nome: comp5
+Password: passcomp5
+Morada: moradacomp5
+Data de Nascimento: 3/6/99
+
+
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|COMPRADOR|
+Email: comp2@mail
+Nome: comp2
+Password: passcomp2
+Morada: moradacomp2
+Data de Nascimento: 22/04/1999
+
+
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|COMPRADOR|
+Email: comp3@mail
+Nome: comp3
+Password: passcomp3
+Morada: moradacomp3
+Data de Nascimento: 11/43/2233
+
+
+|MORADIA|
+Tipo de Moradia: Isolada
+Área de Implantação: 500.0
+Área Total Coberta: 600.0
+Área de Terreno Envolvente: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 6
+ID: 0
+Rua: rua1
+Preço Pedido: 10000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Simples
+Área Total: 400.0
+Número de Quartos e WC's: 3
+Número da Porta: 4
+Número do Andar: 2
+Garagem: Sim
+ID: 1
+Rua: rua2
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|LOJA|
+Tipo de Negócio da Loja: Frutaria
+Área Total: 400.0
+Número da Porta: 3
+WC: Sim
+ID: 2
+Rua: rua3
+Preço Pedido: 4000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|TERRENO|
+Tipo de Construção: Habitacao
+Diâmetro das Canalizações: 7.0
+Área de Construção: 500.0
+kWh máximo suportados pela rede eléctrica: 400.0
+Acesso á rede de esgotos: Não
+ID: 3
+Rua: rua4
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 600.0
+Área Total Coberta: 300.0
+Área de Terreno Envolvente: 900.0
+Número de Quartos e WC's: 6
+Número da Porta: 4
+ID: 4
+Rua: rua5
+Preço Pedido: 20000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|TERRENO|
+Tipo de Construção: Armazem
+Diâmetro das Canalizações: 2.0
+Área de Construção: 3000.0
+kWh máximo suportados pela rede eléctrica: 0.0
+Acesso á rede de esgotos: Sim
+ID: 5
+Rua: rua6
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|LOJA HABITÁVEL|
+Tipo de Negócio da Loja: Doces
+Área Total: 4000.0
+Número da Porta: 7
+WC: Sim
+Apartamento incluido:
+|APARTAMENTO|
+Tipo de Apartamento: Duplex
+Área Total: 400.0
+Número de Quartos e WC's: 5
+Número da Porta: 7
+Número do Andar: 1
+Garagem: Sim
+ID: null
+Rua: rua7
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Triplex
+Área Total: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 9
+Número do Andar: 4
+Garagem: Não
+ID: 7
+Rua: rua8
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|LOJA|
+Tipo de Negócio da Loja: Flores
+Área Total: 343.0
+Número da Porta: 8
+WC: Não
+ID: 8
+Rua: rua9
+Preço Pedido: 8000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 5000.0
+Área Total Coberta: 6000.0
+Área de Terreno Envolvente: 7600.0
+Número de Quartos e WC's: 7
+Número da Porta: 34
+ID: 9
+Rua: rua10
+Preço Pedido: 13000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+Imoobiliaria@89bc2d
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+|COMPRADOR|
+Email: cenas@cenas.pt
+Nome: cenas
+Password: cenas
+Morada: rua das cenas
+Data de Nascimento: 23/07/98
+
+
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|COMPRADOR|
+Email: comp4@mail
+Nome: comp4
+Password: passcomp4
+Morada: moradacomp4
+Data de Nascimento: 12/4/2332
+
+
+|COMPRADOR|
+Email: comp1@mail
+Nome: comp1
+Password: passcomp1
+Morada: moradacomp1
+Data de Nascimento: 11/22/4454
+
+
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|COMPRADOR|
+Email: comp5@mail
+Nome: comp5
+Password: passcomp5
+Morada: moradacomp5
+Data de Nascimento: 3/6/99
+
+
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|COMPRADOR|
+Email: comp2@mail
+Nome: comp2
+Password: passcomp2
+Morada: moradacomp2
+Data de Nascimento: 22/04/1999
+
+
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|COMPRADOR|
+Email: comp3@mail
+Nome: comp3
+Password: passcomp3
+Morada: moradacomp3
+Data de Nascimento: 11/43/2233
+
+
+|MORADIA|
+Tipo de Moradia: Isolada
+Área de Implantação: 500.0
+Área Total Coberta: 600.0
+Área de Terreno Envolvente: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 6
+ID: 0
+Rua: rua1
+Preço Pedido: 10000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Simples
+Área Total: 400.0
+Número de Quartos e WC's: 3
+Número da Porta: 4
+Número do Andar: 2
+Garagem: Sim
+ID: 1
+Rua: rua2
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|LOJA|
+Tipo de Negócio da Loja: Frutaria
+Área Total: 400.0
+Número da Porta: 3
+WC: Sim
+ID: 2
+Rua: rua3
+Preço Pedido: 4000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|TERRENO|
+Tipo de Construção: Habitacao
+Diâmetro das Canalizações: 7.0
+Área de Construção: 500.0
+kWh máximo suportados pela rede eléctrica: 400.0
+Acesso á rede de esgotos: Não
+ID: 3
+Rua: rua4
+Preço Pedido: 5000.0
+Estado: Reservado
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 600.0
+Área Total Coberta: 300.0
+Área de Terreno Envolvente: 900.0
+Número de Quartos e WC's: 6
+Número da Porta: 4
+ID: 4
+Rua: rua5
+Preço Pedido: 20000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|TERRENO|
+Tipo de Construção: Armazem
+Diâmetro das Canalizações: 2.0
+Área de Construção: 3000.0
+kWh máximo suportados pela rede eléctrica: 0.0
+Acesso á rede de esgotos: Sim
+ID: 5
+Rua: rua6
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|LOJA HABITÁVEL|
+Tipo de Negócio da Loja: Doces
+Área Total: 4000.0
+Número da Porta: 7
+WC: Sim
+Apartamento incluido:
+|APARTAMENTO|
+Tipo de Apartamento: Duplex
+Área Total: 400.0
+Número de Quartos e WC's: 5
+Número da Porta: 7
+Número do Andar: 1
+Garagem: Sim
+ID: null
+Rua: rua7
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Triplex
+Área Total: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 9
+Número do Andar: 4
+Garagem: Não
+ID: 7
+Rua: rua8
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|LOJA|
+Tipo de Negócio da Loja: Flores
+Área Total: 343.0
+Número da Porta: 8
+WC: Não
+ID: 8
+Rua: rua9
+Preço Pedido: 8000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 5000.0
+Área Total Coberta: 6000.0
+Área de Terreno Envolvente: 7600.0
+Número de Quartos e WC's: 7
+Número da Porta: 34
+ID: 9
+Rua: rua10
+Preço Pedido: 13000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+Imoobiliaria@1316d8c
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+
+----------- LOG - LOG - LOG - LOG - LOG ----------------
+|COMPRADOR|
+Email: cenas@cenas.pt
+Nome: cenas
+Password: cenas
+Morada: rua das cenas
+Data de Nascimento: 23/07/98
+
+
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|COMPRADOR|
+Email: comp4@mail
+Nome: comp4
+Password: passcomp4
+Morada: moradacomp4
+Data de Nascimento: 12/4/2332
+
+
+|COMPRADOR|
+Email: comp1@mail
+Nome: comp1
+Password: passcomp1
+Morada: moradacomp1
+Data de Nascimento: 11/22/4454
+
+
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|COMPRADOR|
+Email: comp5@mail
+Nome: comp5
+Password: passcomp5
+Morada: moradacomp5
+Data de Nascimento: 3/6/99
+
+
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|COMPRADOR|
+Email: comp2@mail
+Nome: comp2
+Password: passcomp2
+Morada: moradacomp2
+Data de Nascimento: 22/04/1999
+
+
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|COMPRADOR|
+Email: comp3@mail
+Nome: comp3
+Password: passcomp3
+Morada: moradacomp3
+Data de Nascimento: 11/43/2233
+
+
+|MORADIA|
+Tipo de Moradia: Isolada
+Área de Implantação: 500.0
+Área Total Coberta: 600.0
+Área de Terreno Envolvente: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 6
+ID: 0
+Rua: rua1
+Preço Pedido: 10000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Simples
+Área Total: 400.0
+Número de Quartos e WC's: 3
+Número da Porta: 4
+Número do Andar: 2
+Garagem: Sim
+ID: 1
+Rua: rua2
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend1@mail
+Nome: vend1
+Password: passvend1
+Morada: moradavend1
+Data de Nascimento: 11/11/22
+
+
+|LOJA|
+Tipo de Negócio da Loja: Frutaria
+Área Total: 400.0
+Número da Porta: 3
+WC: Sim
+ID: 2
+Rua: rua3
+Preço Pedido: 4000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|TERRENO|
+Tipo de Construção: Habitacao
+Diâmetro das Canalizações: 7.0
+Área de Construção: 500.0
+kWh máximo suportados pela rede eléctrica: 400.0
+Acesso á rede de esgotos: Não
+ID: 3
+Rua: rua4
+Preço Pedido: 5000.0
+Estado: Reservado
+↓
+|VENDEDOR|
+Email: vend2@mail
+Nome: vend2
+Password: passvend2
+Morada: moradavend2
+Data de Nascimento: 22/22/44
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 600.0
+Área Total Coberta: 300.0
+Área de Terreno Envolvente: 900.0
+Número de Quartos e WC's: 6
+Número da Porta: 4
+ID: 4
+Rua: rua5
+Preço Pedido: 20000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|TERRENO|
+Tipo de Construção: Armazem
+Diâmetro das Canalizações: 2.0
+Área de Construção: 3000.0
+kWh máximo suportados pela rede eléctrica: 0.0
+Acesso á rede de esgotos: Sim
+ID: 5
+Rua: rua6
+Preço Pedido: 5000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend3@mail
+Nome: vend3
+Password: passvend3
+Morada: moradavend3
+Data de Nascimento: 12/03/1990
+
+
+|LOJA HABITÁVEL|
+Tipo de Negócio da Loja: Doces
+Área Total: 4000.0
+Número da Porta: 7
+WC: Sim
+Apartamento incluido:
+|APARTAMENTO|
+Tipo de Apartamento: Duplex
+Área Total: 400.0
+Número de Quartos e WC's: 5
+Número da Porta: 7
+Número do Andar: 1
+Garagem: Sim
+ID: null
+Rua: rua7
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|APARTAMENTO|
+Tipo de Apartamento: Triplex
+Área Total: 300.0
+Número de Quartos e WC's: 4
+Número da Porta: 9
+Número do Andar: 4
+Garagem: Não
+ID: 7
+Rua: rua8
+Preço Pedido: 6000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend4@mail
+Nome: vend4
+Password: passvend4
+Morada: moradavend4
+Data de Nascimento: 1/4/4433
+
+
+|LOJA|
+Tipo de Negócio da Loja: Flores
+Área Total: 343.0
+Número da Porta: 8
+WC: Não
+ID: 8
+Rua: rua9
+Preço Pedido: 8000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+|MORADIA|
+Tipo de Moradia: Geminada
+Área de Implantação: 5000.0
+Área Total Coberta: 6000.0
+Área de Terreno Envolvente: 7600.0
+Número de Quartos e WC's: 7
+Número da Porta: 34
+ID: 9
+Rua: rua10
+Preço Pedido: 13000.0
+Estado: Venda
+↓
+|VENDEDOR|
+Email: vend5@mail
+Nome: vend5
+Password: passvend5
+Morada: moradavend5
+Data de Nascimento: 12/34/222
+
+
+Imoobiliaria@6464fa
+----------- LOG - LOG - LOG - LOG - LOG ----------------

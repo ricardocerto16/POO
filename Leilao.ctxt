@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=im\ horas
+comment0.target=Leilao(Imovel,\ int)
+comment1.params=idComprador\ limite\ incrementos\ minutos
+comment1.target=void\ adicionaComprador(java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ correLeilao()
+comment3.params=
+comment3.target=Licitador\ getVencedor()
+comment4.params=
+comment4.target=double\ getMontante()
+comment5.params=
+comment5.target=Imovel\ getImovel()
+numComments=6

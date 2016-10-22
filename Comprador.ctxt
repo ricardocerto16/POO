@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=email\ nome\ password\ morada\ dataDeNascimento
+comment0.target=Comprador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=Comprador()
+comment2.params=c
+comment2.target=Comprador(Comprador)
+comment3.params=imoveis
+comment3.target=void\ setImoFav(java.util.Set)
+comment4.params=
+comment4.target=java.util.Set\ getImoFav()
+comment5.params=i
+comment5.target=void\ addImoFav(Imovel)
+comment6.params=
+comment6.target=Comprador\ clone()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
